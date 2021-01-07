@@ -1,2 +1,2 @@
 # morevo.github.io
-Cites
+Landing page
